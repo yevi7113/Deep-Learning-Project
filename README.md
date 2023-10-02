@@ -1,5 +1,5 @@
 # **Deep Learning Project**
-#### DTSA 5511 - IMDB Movie Reviews Sentiment Analysis - Final Project  ####
+#### DTSA 5511 - IMDB Movie Reviews Sentiment Analysis - Final Project
 <hr>
 
 A machine learning project that performs sentiment analysis on IMDb movie reviews. The goal is to classify movie reviews as either positive or negative based on their content.
